@@ -1,0 +1,69 @@
+.page1{
+    background-color: aqua
+}
+.hi{
+    font-size: 80px;
+    margin-left: 20px;
+}
+.name{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 170px;
+    font-weight: 600;
+    color: black;
+}
+.u{
+    color: #C780FA;
+    
+}
+    .nv{
+        margin-left: 0;
+    }
+
+.mg{
+    margin-left: 0;
+}    
+.img{
+    border-radius: 50%;
+}
+.me{
+    margin-top: 40px;
+    font-size: 80px;
+}
+.intro{
+    font-size: 60px;
+}
+.code{
+    font-size:50px;
+}
+.gol{
+    border-radius: 50%;
+}
+.imp{
+    font-size: 45px;
+    font-weight: 400;
+    color: #E11299;
+
+}
+.notimp{
+    font-size: 44px;
+}
+.oy{
+    font-size: 80px;
+    font-weight: 400;
+}
+.page4{
+    background-color: #C4DFDF;
+}
+.ms-3 {
+    margin-left: 1rem!important;
+}
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+.page5{
+    background-color: aquamarine;
+}
+.pp{
+    padding: 50px;
+}
